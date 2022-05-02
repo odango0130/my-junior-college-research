@@ -1,0 +1,41 @@
+2sou1_1000size.xlsx
+　2層NNで1層目のサイズを1～1000と変化させたNNのデータ
+
+2層検証workspace.mat
+　2層NNを検証した時のワークスペース
+
+3sou1_1000size.xlsx
+　3層NNで1層目のサイズを1～1000と変化させたNNのデータを途中まで取ったもの
+
+3層検証workspace.mat
+　3層NNを検証した時のワークスペース
+
+Angle_Simulink_Layer2_Data.xlsx
+　角度を変化させたときの2層NNによる予測データと実データの比較
+
+Frequency_Simulink_Layer2_Data.xlsx
+　周波数を100,200,…500と変化させたときの2層NNによる予測データと実データの比較
+
+Frequency2_Simulink_Layer2_Data.xlsx
+　周波数をランプ関数的に変化させたときの2層NNによる予測データと実データの比較
+
+Simulink_template.slx
+　モデル上でNNの予測の正確性を検証するためのSimulinkモデル
+
+Simulink_template_R2019a.slx
+　R2019a用にエクスポートしたもの
+
+table_data_save.m
+　テーブルデータ作成用mファイル
+
+tabledata_excel.xlsx
+　テーブルデータをエクセルにコピペしたもの
+
+test11_ForMakeData.m
+　層の数やサイズを変えながら性能のデータを取るためのコード
+
+VAF_Simulink_Layer2_Data.xlsx
+　電圧，角度，周波数を変化させたときの2層NNによる予測データと実データの比較
+
+Volt_Simulink_Layer2_Data.xlsx
+　電圧を変化させたときの2層NNによる予測データと実データの比較
